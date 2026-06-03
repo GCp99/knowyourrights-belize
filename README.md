@@ -2,6 +2,8 @@
 
 A Progressive Web App (PWA) providing plain-language guidance on Belizean legal rights for citizens during encounters with law enforcement and government authorities.
 
+ https://gcp99.github.io/knowyourrights-belize/
+
 
 
 ## Features
