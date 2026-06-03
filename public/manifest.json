@@ -1,0 +1,14 @@
+{
+  "short_name": "Rights BZ",
+  "name": "KnowYourRights Belize",
+  "description": "Plain-language guide to your rights under Belizean law",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#06040f",
+  "background_color": "#06040f",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
