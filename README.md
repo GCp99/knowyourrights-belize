@@ -2,9 +2,7 @@
 
 A Progressive Web App (PWA) providing plain-language guidance on Belizean legal rights for citizens during encounters with law enforcement and government authorities.
 
-## Live App
 
-Deployed at: `https://YOUR-USERNAME.github.io/knowyourrights-belize`
 
 ## Features
 
@@ -27,39 +25,6 @@ Deployed at: `https://YOUR-USERNAME.github.io/knowyourrights-belize`
 - GitHub Pages (free hosting)
 - GitHub Actions (automatic deployment)
 
-## Deployment to GitHub Pages (Free)
-
-### Step 1 — Create your repository
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-gh repo create knowyourrights-belize --public --push
-```
-
-### Step 2 — Enable GitHub Pages
-1. Go to your repo → Settings → Pages
-2. Set **Source** to **GitHub Actions**
-3. Push any commit to `main` to trigger the workflow
-
-### Step 3 — Access your app
-Your app will be live at:
-`https://YOUR-USERNAME.github.io/knowyourrights-belize`
-
-## Local Development
-
-```bash
-npm install
-npm start
-```
-
-Open `http://localhost:3000`
-
-## Build for Production
-
-```bash
-npm run build
-```
 
 ## Legal Disclaimer
 
@@ -80,7 +45,6 @@ Content reviewed against laws current as of June 2026.
 - Immigration Act (Cap. 156)
 - Summary Jurisdiction (Offences) Act (Cap. 98)
 
-## Recommended Partnerships
 
 - Legal Aid Belize
 - Belize Human Rights Commission
